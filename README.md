@@ -91,7 +91,8 @@ While this is primarily a learning project, suggestions and discussions about im
 
 ## License
 
-This project is for educational purposes. Please refer to the "Crafting Interpreters" book for the original concepts and design patterns.
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
+While the code is freely available, the concepts and design patterns are from Bob Nystrom's "Crafting Interpreters."
 
 ---
 
