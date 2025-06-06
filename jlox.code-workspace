@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.format.enabled": true,
+    "editor.formatOnSave": true,
+    "java.configuration.maven.userSettings": "${workspaceFolder}/.mvn/maven.config"
+  },
+  "extensions": {
+    "recommendations": [
+      "vscjava.vscode-java-pack",
+      "vscjava.vscode-maven"
+    ]
+  }
+}
